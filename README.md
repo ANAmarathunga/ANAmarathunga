@@ -1,17 +1,17 @@
 <!-- Professional GitHub Profile README for Jayamantha Wanasinghe -->
 
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#00E5FF;">Jayamantha Wanasinghe</span>
+  👋 Hi, I'm <span style="color:#00E5FF;">Ashan Nadeesha</span>
 </h1>
 
 <h3 align="center">
-  💻 A Passionate Web Developer & Designer from Sri Lanka
+  💻 Computer Science Undergradute
 </h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaywanasinghe11&label=Profile%20views&color=00E5FF&style=flat-square" alt="jaywanasinghe11" />
+  <img src="https://komarev.com/ghpvc/?username=ANAmarathunga&label=Profile%20views&color=00E5FF&style=flat-square" alt="ANAmarathunga" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 - 🔭 Currently working on **Test Project**  
 - 💬 Ask me about **Web Development, React, Java, and UI Design**  
-- 📫 Reach me at **jayamanthawanasinghe11@gmail.com**  
+- 📫 Reach me at **ashanamarathunga003@gmail.com**  
 - ⚡ Fun fact: You can call me **Jay**  
 
 ---
@@ -35,10 +35,7 @@
   <a href="https://fb.com/jayamantha.wanasinghe" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/jay_wanasinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
+
 </p>
 
 ---
