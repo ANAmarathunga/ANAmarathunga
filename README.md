@@ -1,69 +1,68 @@
-<!-- Professional GitHub Profile README for Jayamantha Wanasinghe -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=220&section=header&text=Hi,%20I'm%20Ashan%20Amarathunga&fontSize=35&animation=fadeIn&fontColor=e0e1dd" alt="Header" />
+</div>
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00E5FF;">Ashan Nadeesha</span>
-</h1>
-
-<h3 align="center">
-  💻 Computer Science Undergradute
-</h3>
+<div align="center">
+  <h3>🎓 Computer Science Undergraduate | 📊 Data Analytics & ML Enthusiast</h3>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ANAmarathunga&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Views" />
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANAmarathunga&label=Profile%20views&color=00E5FF&style=flat-square" alt="ANAmarathunga" />
+### 👤 About Me
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3A3cnM0bnd5bXF6bXN3d3N5bXF6bXN3d3N5bXF6bXN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="180" alt="Data Tech Animation" />
+
+* 🚀 **Currently:** Building my portfolio, sharpening my IT skills, and preparing for my first Internship.
+* 🔍 **Focusing on:** Data Analytics, Machine Learning, and Business Intelligence technologies.
+* 💬 **Ask me about:** Python, Java, and structuring data insights.
+* ⚡ **Fun Fact:** You can call me **Shan**.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🧠 About Me  
+### 📊 GitHub Analytics
 
-- 🔭 Currently working on **Test Project**  
-- 💬 Ask me about **Web Development, React, Java, and UI Design**  
-- 📫 Reach me at **ashanamarathunga003@gmail.com**  
-- ⚡ Fun fact: You can call me **Jay**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANAmarathunga&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Ashan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAmarathunga&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Ashan's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANAmarathunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🌐 Connect With Me  
+### 💡 Quote of the Mind
 
-<p align="center">
-  <a href="https://linkedin.com/in/jayamantha-wanasinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+> "Every dataset tells a story; I'm here to uncover it."
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/jayamantha.wanasinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-
 </p>
 
----
+<br />
 
-### 🛠️ Languages & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,php,python,git" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaywanasinghe11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaywanasinghe11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF" height="165" />
-</p>
-
----
-
-### ✨ Personal Quote  
-
-> *“Design is not just what it looks like and feels like — design is how it works.”*  
-> — *Steve Jobs*
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ANAmarathunga/ANAmarathunga/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
