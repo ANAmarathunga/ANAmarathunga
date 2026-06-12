@@ -18,7 +18,7 @@
 * 🚀 **Currently:** Building my portfolio, sharpening my IT skills, and preparing for my first Internship.
 * 🔍 **Focusing on:** Data Analytics, Machine Learning, and Business Intelligence technologies.
 * 💬 **Ask me about:** Python, Java, and structuring data insights.
-* 📫 **Reach me at:** **jayamanthawanasinghe11@gmail.com** 
+* 📫 **Reach me at:** **ashanamarathunga003@gmail.com** 
 * ⚡ **Fun Fact:** You can call me **Shan**.
 
 ---
