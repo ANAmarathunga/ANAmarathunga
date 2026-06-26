@@ -15,7 +15,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3A3cnM0bnd5bXF6bXN3d3N5bXF6bXN3d3N5bXF6bXN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="180" alt="Data Tech Animation" />
 
-* 🚀 **Currently:** Building my portfolio, sharpening my IT skills, and preparing for my first Internship.
+* 🚀 **Portfolio**: Check out my live portfolio [here](https://anamarathunga.github.io/My-Portfolio/)!
 * 🔍 **Focusing on:** Data Analytics, Machine Learning, Full-Stack Development, and Business Intelligence technologies.
 * 💬 **Ask me about:** Python, Java, JavaScript, React, Node.js, and Database Management Systems.
 * 📫 **Reach me at:** **ashanamarathunga003@gmail.com** 
