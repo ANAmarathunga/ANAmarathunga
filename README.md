@@ -18,7 +18,8 @@
 * 🚀 **Portfolio**: Check out my live portfolio [here](https://anamarathunga.github.io/My-Portfolio/)!
 * 🔍 **Focusing on:** Data Analytics, Machine Learning, Full-Stack Development, and Business Intelligence technologies.
 * 💬 **Ask me about:** Python, Java, JavaScript, React, Node.js, and Database Management Systems.
-* 📫 **Reach me at:** **ashanamarathunga003@gmail.com** * ⚡ **Fun Fact:** You can call me **Shan**.
+* 📫 **Reach me at:** **ashanamarathunga003@gmail.com**
+* ⚡ **Fun Fact:** You can call me **Shan**.
 
 ---
 
