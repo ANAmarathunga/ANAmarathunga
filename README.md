@@ -13,7 +13,7 @@
 
 ### 👤 About Me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJobWw3eXBsZmt4eXF3cmx0YmUzc3Jzbmw4ZHpqNDl0eTFoZ2FyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3KXy7tDl4hs4w8/giphy.gif" align="right" width="220" alt="Futuristic Data Analytics Animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3A3cnM0bnd5bXF6bXN3d3N5bXF6bXN3d3N5bXF6bXN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="180" alt="Data Tech Animation" />
 
 * 🚀 **Portfolio**: Check out my live portfolio [here](https://anamarathunga.github.io/My-Portfolio/)!
 * 🔍 **Focusing on:** Data Analytics, Machine Learning, Full-Stack Development, and Business Intelligence technologies.
